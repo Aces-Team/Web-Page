@@ -1,0 +1,13 @@
+.borders{
+    border-bottom: solid;
+     border-bottom-color: black;
+ border-width: 2px;
+ margin: 0 5px;
+font-family: Georgia, 'Times New Roman', Times;
+color: black;
+font-size: 30px;
+ 
+}
+.borders:hover{
+border-color: gray;
+}
