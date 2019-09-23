@@ -1,6 +1,6 @@
 body{
     box-sizing: border-box;
-    background-image: url("ACES Crew1.jpg ");
+    background-image: url("./pics/bg.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,7 +21,7 @@ header{
 }
 
 .acg-container{
-    height: 40%;
+    height: 60%;
     width: 90%;
     display: block;
     margin-left: auto;
@@ -40,7 +40,7 @@ header{
 }*/
 
 .companies-container{
-    height: 40%;
+    height: 60%;
     width: 90%;
     display: block;
     margin-left: auto;
@@ -51,6 +51,7 @@ header{
     padding: 10px 50px;
     border-radius: 30px;
     transition: 1s ease-out;
+    
 }
 
 .companies-container:hover{
@@ -80,7 +81,7 @@ header{
 }*/
 
 .box{
-    height: 45%; 
+    height: 35%; 
     margin-top: auto; 
     margin-bottom: auto;
     background-color: azure;
@@ -93,7 +94,7 @@ header{
 }
 
 .acgbox{
-    height: 45%; 
+    height: 35%; 
     margin-top: auto; 
     margin-bottom: auto;
     background-color: antiquewhite;
@@ -103,6 +104,33 @@ header{
     text-align: center;
     word-wrap: break-word;
     overflow:auto;
+    
+}
+
+.apply-button{
+    height: 15%; 
+    margin-top: auto; 
+    margin-bottom: auto;
+    
+    border-radius: 30px; 
+    font-display: "manjari"; 
+    text-align: center;
+    
+}
+
+.button{
+    height: 85%; 
+    width: 100px;
+    padding-top: auto; 
+    margin-bottom: auto;
+    margin-left: auto;
+    background-color: rgb(12, 132, 68);
+    border-radius: 5px; 
+    color: aliceblue;
+    font-display: "manjari"; 
+    text-align: center;
+    font-size: 23px;
+
     
 }
 
