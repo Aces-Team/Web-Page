@@ -1,0 +1,80 @@
+
+
+
+
+
+body{
+    
+    background:  #1D563B;
+   
+
+    
+    
+}
+div {
+    
+  text-align: center;
+  
+    
+    
+}
+
+#main_box,.box{
+    
+    font-family: cursive;
+    background:#0A8344;
+    
+    opacity: .8;
+    color: #FFFFF1;
+    font-weight: 400;
+    font-size: large;
+    
+    
+    
+    
+    
+}
+img {
+    
+   /* width: 200px;*/
+    
+    width: 70%;
+    
+    
+}
+button{
+    
+    margin-top: 20px;
+    
+    
+    
+}
+#aces {
+    
+    width:400px;
+    
+    
+    
+    
+}
+.box {
+     
+     
+    float: left;
+    margin: 20px 10px;
+    height: 580px;
+    
+    
+ 
+}
+
+h1 {
+
+
+font-size:80px;
+color: #fff;
+margin : 20px auto ;
+font-family: 'Squada One', cursive;
+
+}
+

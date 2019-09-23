@@ -1,0 +1,52 @@
+body{
+    
+    
+   background:  #1D563B;
+    
+    
+    
+    
+}
+
+#box2{
+    
+    
+    font-family: cursive;
+    background:#0A8344;
+    
+    opacity: .8;
+    color: #FFFFF1;
+    font-weight: 400;
+    font-size: large;
+    
+    
+}
+
+
+
+
+.jumbotron{
+    
+ 
+    text-align: center;
+    overflow: hidden;
+    
+    
+    
+}
+
+ img{
+    
+   width:100%;
+   
+    
+    
+    
+}
+#box1{
+    
+ background: none;
+ margin-bottom: 10px;
+ 
+    
+}
