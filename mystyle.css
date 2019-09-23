@@ -7,11 +7,17 @@ font-family: Georgia, 'Times New Roman', Times;
 color: black;
 font-size: 40px;
 }
+.icon {
+ width: 100px;
+ 
+}
 .borders:hover{
 border-color: gray;
 }
 body {
-  background-image: url("./pics/bg.jpg");
+
+   background:  #1D563B;
+
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -30,13 +36,10 @@ strong{
 }
 .adiv{
   margin: 50px;
-  border: 2px solid green;
-  outline-color: green;
+
+  border: 2px solid #0A8344;
+  outline-color: #0A8344;
+
+ 
   outline-style: double;
-}
-.icons{
-  width : 100px;
-}
-h1{
-  color : white;
 }
