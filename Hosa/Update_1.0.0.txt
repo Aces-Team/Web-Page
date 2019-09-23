@@ -1,1 +1,2 @@
-The ACG Webpage now has a functional navbar but its style is not consistent with the other webpages, and the page upcoming update should have the companies div to be side by side, and add an 'apply' button.
+Update_1.0.0: The ACG Webpage now has a functional navbar but its style is not consistent with the other webpages, and the page upcoming update should have the companies div to be side by side, and add an 'apply' button.
+Update_1.0.1: Added the ACES title bar logo & changed the name of the title from Hosa! to ACG | ACES Egypt.
