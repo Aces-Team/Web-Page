@@ -8,6 +8,7 @@ body{
     
 }
 
+
 #box2{
     
     
@@ -49,4 +50,42 @@ body{
  margin-bottom: 10px;
  
     
+}
+footer{
+ 
+ background:#0A8344;
+ overflow: hidden;
+ text-align: center;
+ color: black;
+ padding: 0px 0px ;
+ 
+ 
+}
+
+footer ul {
+ 
+list-style: none;
+padding-left: 0;
+margin: 10px  0  ;
+
+ 
+}
+
+
+
+footer ul li {
+ 
+ display: inline-block;
+ 
+ 
+ 
+ 
+}
+footer ul li img {
+ 
+ width: 50px;
+ height: auto;
+ 
+ 
+ 
 }
