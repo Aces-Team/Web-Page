@@ -1,0 +1,36 @@
+.borders{
+    border-bottom: solid;
+     border-bottom-color: black;
+ border-width: 2px;
+ margin: 0 5px;
+font-family: Georgia, 'Times New Roman', Times;
+color: black;
+font-size: 40px;
+}
+.borders:hover{
+border-color: gray;
+}
+body {
+  background-image: url("./pics/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p{
+    margin:15px;
+    padding : 15px;
+  color: white;
+}
+button{
+    margin:15px;
+    padding : 15px;
+
+}
+strong{
+    font-size: 40px;
+}
+.adiv{
+  margin: 50px;
+  border: 2px solid green;
+  outline-color: green;
+  outline-style: double;
+}
