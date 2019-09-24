@@ -43,3 +43,9 @@ strong{
  
   outline-style: double;
 }
+h1 strong{
+  color: white;
+}
+button a{
+  color: white;
+}
