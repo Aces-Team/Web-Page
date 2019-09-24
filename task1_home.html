@@ -1,17 +1,37 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <title> HOME   </title>
+    <title>HOME</title>
     
-    <meta   charset="utf" >
+    <meta   charset="UTF-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="task1_home.css  " type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Squada+One&display=swap" rel="stylesheet">    
+    <link rel="stylesheet" href="./bootstrap/bootstrap.css">
+    <script src="./bootstrap/jquery-slim.min.js"></script>
+    <script src="./bootstrap/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="task1_home.css  " type="text/css">
+    <link rel="stylesheet" href="mystyle.css">
     </head>
     
 <body>
-    
+     <!-- Nav-Bar -->
+  <nav class="navbar navbar-expand-md navbar-light ">
+    <img src="./pics/aceslogo.png" alt="ACES Logo">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-item nav-link borders active" href="task1_home.html">Home </a>
+            <a class="nav-item nav-link borders" href="task1_conference.html">Conference</a>
+            <a class="nav-item nav-link borders" href="events.html">Events</a>
+            <a class="nav-item nav-link borders" href="About page.html">About</a>
+            <a class="nav-item nav-link borders" href="">ACG</a>
+            <a class="nav-item nav-link borders" href="">Account</a>
+        </div>
+    </div>
+</nav>
+
    <div class="container">
         
         <h1>       Life Changing Experience </h1>
@@ -20,7 +40,7 @@
         
             <div id="main_box" class="jumbotron row">
            <div class=col-sm-12>
-            <img id="aces" src=" logo20.ebb1e70d.png" width="30px"  >
+            <img id="aces" src="./pics/aceslogo.png" width="30px" class="mainpics"  >
             <hr class="my-4">
             
               With magnificent enthusiasm and great excitement, we announce the start of ACES'20 crew recruitment. The recruitment is divided into Academic committee and Organizing Committees.
@@ -36,7 +56,7 @@
    
    
     <div class="box jumbotron  col-xs-12 col-sm-5 col-md-5 col-lg-3">
-        <img  src="workshopsLogo1.604fdec2.png">
+        <img  src="./pics/workshops logo.png" class="mainpics">
         <hr class="my-4">
        ACES Workshops is our non-technical project which offers 5 workshops, each of 5 sessions followed by a case study helping you to improve your soft skills and apply what you have studied.        
         
@@ -45,7 +65,7 @@
     </div>
     <div class="col-lg-1 col-md-1 col-sm-5"></div>
     <div class="box jumbotron  col-xs-12 col-sm-5 col-md-5 col-lg-3">
-     <img   src=" Expo.png"   >
+     <img   src="./pics/Expo.png" class="mainpics"   >
      <hr class="my-4">
       ACES Expo offers technically cored sessions followed by practical case studies in the plants or firms of each corporate.
 
@@ -57,7 +77,7 @@
     </div>
     <div class="col-lg-1 "></div>
     <div class="box jumbotron  col-xs-12 col-sm-5 col-md-5 col-lg-3 " >
-        <img   src="acg.8577596e.png"   >
+        <img   src="./pics/acg.png" class="mainpics"   >
         <hr class="my-4">
         You can find here all of the existing vacancies that are relevant to your specialization needed by our companies
 
